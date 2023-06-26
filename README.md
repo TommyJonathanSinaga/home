@@ -2,7 +2,7 @@
 
 
 
-# Hey guys! <img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width="30px">
+### About me <img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width="30px">
 
 My name is Stan Girard and I'm a Site Reliability Engineer. I'm from France, living in Paris and currently working at [Padok](https://www.padok.fr/).
 
