@@ -2,7 +2,7 @@
 
 
 
-## Tommy Jonathan Sinaga<img src="https://raw.githubusercontent.com/TommyJonathanSinaga/TommyJonathanSinaga/main/assets/src/img/badge/verified.png" width="25px">
+## Tommy Jonathan Sinaga<img src="https://raw.githubusercontent.com/TommyJonathanSinaga/TommyJonathanSinaga/main/assets/src/img/badge/verified.png" padding="10px" width="25px">
 
 
 My name is Stan Girard and I'm a Site Reliability Engineer. I'm from France, living in Paris and currently working at [Padok](https://www.padok.fr/).
