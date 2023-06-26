@@ -3,7 +3,7 @@
 
 ## Tommy Jonathan Sinaga<img src="https://raw.githubusercontent.com/TommyJonathanSinaga/TommyJonathanSinaga/main/assets/src/img/badge/verified-assets.png" bottom="100px"  width="20px">
 
-
+Tommy Jonathan Sinaga born in Pematangsiantar, North Sumatra, is an Indonesian writer and entrepreneur. he is a descendant of the Toba Batak. Son of S. Sinaga and R. Sitohang. Tommy is the second of four children. his father was a supervisor at a coal mining company in north kalimantan. Tommy also makes some professional techno music. He is currently under contract with Believe Backstage, a digital audio and music video distribution based in France.
 
 
 ## Personal life
