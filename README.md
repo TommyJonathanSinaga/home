@@ -2,7 +2,7 @@
 
 
 
-# About me <img src="https://raw.githubusercontent.com/TommyJonathanSinaga/TommyJonathanSinaga/main/assets/src/img/badge/verified.png" width="30px">
+# About me <img src="https://raw.githubusercontent.com/TommyJonathanSinaga/TommyJonathanSinaga/main/assets/src/img/badge/verified.png" width="20px">
 
 
 https://raw.githubusercontent.com/TommyJonathanSinaga/TommyJonathanSinaga/main/assets/src/img/badge/verified.png
