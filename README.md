@@ -17,9 +17,3 @@ Presently, Tommy resides in Pematang Siantar, Indonesia, together with his best 
 Tommy's unconventional approach to wizardry has proven to be remarkably successful. His dedication to pushing the boundaries of technology and discovering new magical spells has led him down a path that few could have imagined. By embracing the power of modern tools and techniques, Tommy has demonstrated that true wizardry knows no bounds. Through his extraordinary journey, he has inspired countless others to seek magic in the realms of science and technology.
 
 So, the next time you encounter Tommy, don't be surprised by his casual attire and laptop in hand. Behind that unassuming exterior lies a brilliant wizard who continues to shape the world of magic with his innovative spells and enchantments.
-
-## Follow me on Social Media
-
-> [![Header](https://raw.githubusercontent.com/TommyJonathanSinaga/TommyJonathanSinaga/main/assets/src/img/icon/Facebook%20Tommy%20Jonathan%20Sinaga.png "Header")](https://facebook.com/TommyjonathanSinaga)
-
-> [![Header](https://raw.githubusercontent.com/TommyJonathanSinaga/TommyJonathanSinaga/main/assets/src/img/icon/Youtube%20Tommy%20Jonathan%20Sinaga.png "Header")](https://facebook.com/TommyjonathanSinaga)
