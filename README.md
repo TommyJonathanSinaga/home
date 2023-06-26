@@ -20,6 +20,6 @@ So, the next time you encounter Tommy, don't be surprised by his casual attire a
 
 ## Follow me on Social Media
 
-[![Header](https://raw.githubusercontent.com/TommyJonathanSinaga/TommyJonathanSinaga/main/assets/src/img/icon/Facebook%20Tommy%20Jonathan%20Sinaga.png "Header")](https://facebook.com/TommyjonathanSinaga)
+> [![Header](https://raw.githubusercontent.com/TommyJonathanSinaga/TommyJonathanSinaga/main/assets/src/img/icon/Facebook%20Tommy%20Jonathan%20Sinaga.png "Header")](https://facebook.com/TommyjonathanSinaga)
 
-[![Header](https://raw.githubusercontent.com/TommyJonathanSinaga/TommyJonathanSinaga/main/assets/src/img/icon/Youtube%20Tommy%20Jonathan%20Sinaga.png "Header")](https://facebook.com/TommyjonathanSinaga)
+> [![Header](https://raw.githubusercontent.com/TommyJonathanSinaga/TommyJonathanSinaga/main/assets/src/img/icon/Youtube%20Tommy%20Jonathan%20Sinaga.png "Header")](https://facebook.com/TommyjonathanSinaga)
