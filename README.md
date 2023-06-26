@@ -19,4 +19,7 @@ Tommy's unconventional approach to wizardry has proven to be remarkably successf
 So, the next time you encounter Tommy, don't be surprised by his casual attire and laptop in hand. Behind that unassuming exterior lies a brilliant wizard who continues to shape the world of magic with his innovative spells and enchantments.
 
 ## Follow me on Social Media
-<img src="https://raw.githubusercontent.com/TommyJonathanSinaga/TommyJonathanSinaga/main/assets/src/img/badge/verified-assets.png"(https://www.facebook.com/TommyJonathanSinaga)" bottom="100px"  width="20px">
+
+[![Header](https://raw.githubusercontent.com/TommyJonathanSinaga/TommyJonathanSinaga/main/assets/src/img/icon/Facebook%20Tommy%20Jonathan%20Sinaga.png "Header")](https://facebook.com/TommyjonathanSinaga)
+
+[![Header](https://raw.githubusercontent.com/TommyJonathanSinaga/TommyJonathanSinaga/main/assets/src/img/icon/Youtube%20Tommy%20Jonathan%20Sinaga.png "Header")](https://facebook.com/TommyjonathanSinaga)
