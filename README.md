@@ -1,4 +1,6 @@
-[![Header](https://raw.githubusercontent.com/StanGirard/StanGirard/master/stangirard-logo.png "Header")](https://facebook.com/TommyjonathanSinaga)
+[![Header](https://raw.githubusercontent.com/TommyJonathanSinaga/TommyJonathanSinaga/main/assets/src/img/me.png "Header")](https://facebook.com/TommyjonathanSinaga)
+
+
 
 # Hey guys! <img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width="30px">
 
