@@ -20,15 +20,9 @@ Tommy's unconventional approach to wizardry has proven to be remarkably successf
 So, the next time you encounter Tommy, don't be surprised by his casual attire and laptop in hand. Behind that unassuming exterior lies a brilliant wizard who continues to shape the world of magic with his innovative spells and enchantments.
 
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=blue)
+## Social Media
+![](https://www.facebook.com/TommyJonathanSinaga)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-AWS&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Interest-Blockchain-informational?style=flat&logo=bitcoin&logoColor=white&color=blue)
+
